@@ -1,3 +1,1 @@
-print("ian was here")
-
-ian = 8
+import arcade
